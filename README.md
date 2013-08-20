@@ -1,4 +1,4 @@
 angular-demo
 ============
 
-Demo of Angular.js functionality
+Moved to https://github.com/jtrim/js-framework-demos/tree/angular
